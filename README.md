@@ -1,1 +1,1 @@
-# dht_mqtt
+sends temperature and humidity to mqtt server
